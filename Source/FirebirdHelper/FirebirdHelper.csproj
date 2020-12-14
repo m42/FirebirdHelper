@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>m42.FirebirdHelper</AssemblyName>
+    <RootNamespace>m42.FirebirdHelper</RootNamespace>
+  </PropertyGroup>
+
+</Project>
